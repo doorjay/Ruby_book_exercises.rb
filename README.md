@@ -1,2 +1,1 @@
-# Ruby_book_exercises.rb
-Launch School 
+# Launch_School.rb 
